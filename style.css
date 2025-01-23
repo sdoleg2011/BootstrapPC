@@ -13,3 +13,15 @@
 .my-carousel .carousel-item  img {
     object-fit: cover;
 }
+
+.card-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.card {
+    margin: 20px;
+}
